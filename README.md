@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/2xDzcNcRm0BeXPEVDI/giphy.gif" height=130><img src="https://media.giphy.com/media/jkMBQIPMJg71i6wCTK/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" height=250><img src="https://media.giphy.com/media/fsnTLgZFfWgHmxqQTk/giphy.gif" height=130>
+</p>
+<h2 align="center"><img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px">Welcome To My Github Profile!<img src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" height="20px"></h2>
+<!--
 ### Hi there 👋
 - 🔭 I’m currently working on JavaScript Projects
 - 🌱 I’m currently learning JavaScript
@@ -7,7 +13,7 @@
 - 📫 How to reach me: brianmelaradev@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love runescape
-
+-->
 <!--
 **BrianMelaraDev/BrianMelaraDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
